@@ -1,2 +1,2 @@
 # mi-portafolio-blog
-"Portafolio y blog sobre Ingeniería C
+"Portafolio y blog sobre Ingeniería Civil"
